@@ -69,3 +69,5 @@
 - 2026-10-26 · Codex · 2.1 · Perfil agora interpreta HTML/Markdown seguro, renderiza imagens/tabelas e usa painel maior com barra translúcida.
 - 2026-10-26 · Codex · 2.1 · Zoom clicável em desktop e celular, painel vazio/ocupado e carregamento opcional do README de perfil.
 - 2026-10-27 · Codex · Correção dos dados de moradores · Retira moradores de _modelo, padroniza slugs/arquivos e corrige cor e apartamento inválidos.
+- 2026-10-27 · Codex · Apartamento de Hiago · Adiciona o apartamento 402 com luz roxa.
+- 2026-10-27 · Codex · Guia para adicionar moradores · Explica escolha do apartamento, slug, JSON, validação e Pull Request no README.
